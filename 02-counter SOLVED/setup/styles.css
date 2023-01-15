@@ -160,7 +160,6 @@ Counter
 .container {
   text-align: center;
   margin: 3rem auto;
-  background: var(--clr-white);
   border-radius: var(--radius);
   width: 90vw;
   max-width: var(--fixed-width);
@@ -191,8 +190,8 @@ Counter
   color: var(--clr-white);
   background: var(--clr-black);
 }
-.buttons {
-  margin-bottom: 3rem;
+.madeby {
+  margin-top: 2rem;
 }
 .madeby a {
   color: black;
